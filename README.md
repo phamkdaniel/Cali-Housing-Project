@@ -7,7 +7,7 @@ Analysis of the many factors affecting housing prices can provide value to indiv
 The significant correlations that were found in this analysis based on regression modelling were in keeping with our initial expectations were the relationships between the data sets in the census.  The strongest non-trivial correlation obtained by using a linear regression  was a relationship between median income and median house value which is easily predictable and does not provide particularly interesting insight for homebuyers.  The most surprising result was the insignificance of violent crime rates in relation to house values. Further analysis breaking down each county into cities and neighborboods would be an interesting investigation that is likely to reveal more relevant data within smaller areas.
 
 
-## File  Breakdown##
+## File  Breakdown ##
 
 * analysis.ipynb - contains analysis of selected plots from plot.ipynb
 
