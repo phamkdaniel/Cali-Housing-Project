@@ -1,2 +1,5 @@
 # Cali-Housing-Project
-predicting housing prices in California based on 1990 data
+
+Housing data is worth analysis in both the present and past. People in California and the entire United States have throughout the last century made massive investments in homes, and many have reaped tremendous rewards for themselves and their families. For others, like many who bought homes in the mid-2000s shortly before the recession, these investments have come at great cost to themselves and their families.
+
+Analysis of the many factors affecting housing prices can provide value to individuals looking to become homeowners as well as social analysts seeking to understand the factors that affect home values. People in certain geographic areas or belonging to particular demographic groups may be more/less likely to become homeowners or have significant differences in the rate at which their homes appreciate/depreciate in value. While the following analysis may not be able to provide conclusive answers to all these questions, it can provide valuable insights into the past, present and future of California housing prices.
