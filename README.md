@@ -25,9 +25,9 @@ The significant correlations that were found in this analysis based on regressio
 
 ### Dependencies ###
 
-*[numpy](https://numpy.org/)
-*[pandas](https://pandas.pydata.org/)
-*[matplotlib](https://matplotlib.org/)
-*[scipy](https://www.scipy.org/)
-*[seaborn](https://seaborn.pydata.org/)
+* [numpy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
+* [scipy](https://www.scipy.org/)
+* [seaborn](https://seaborn.pydata.org/)
 
